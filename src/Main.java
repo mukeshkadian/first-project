@@ -25,6 +25,7 @@ class rectangle extends square{
         s1.area(20,55);
      r1.area();
      r1.area(3);
+        System.out.println("hello mukesh");
     }
 
 }
